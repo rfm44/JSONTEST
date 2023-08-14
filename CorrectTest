@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "zip": "12345"
+      },
+      "phoneNumbers": ["123-456-7890", "987-654-3210"]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "address": {
+        "street": "456 Elm St",
+        "city": "Othertown",
+        "zip": "67890"
+      },
+      "phoneNumbers": ["555-777-8888"]
+    }
+  ]
+}
